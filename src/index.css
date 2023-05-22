@@ -1,10 +1,13 @@
-
-.tela{
-  /* 1 - Tela de Login */
-position: absolute;
-width: 1440px;
-height: 900px;
-background: #FFFFFF;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
 }
-
-
+.tela {
+  /* 1 - Tela de Login */
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  background: #ffffff;
+}
